@@ -23,10 +23,13 @@ Achei que ia dar 3 erros e deu 3.
 Porque o `npm run dev` só converte o TypeScript em JavaScript e não verifica os tipos. Quem verifica é o `tsc`, que só corre no `npm run build`.
 
 ## git log --oneline
-154fdd5 (HEAD -> main, origin/main, origin/HEAD) PL01: AI_USAGE, capturas e limpeza
+
+```
+a7d28fe PL01: respostas finais
+154fdd5 PL01: AI_USAGE, capturas e limpeza
 ce286f3 PL01: cartão responsivo
 046e360 PL01: cartão de perfil
 8ed44ab PL01: JSX e TypeScript
 16e9887 PL01: Tailwind CSS v4
 871ffc1 PL01: projecto base
-PS C:\PWAF_2º\pwafe-pl01> 
+```
